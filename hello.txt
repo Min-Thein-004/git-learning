@@ -1,4 +1,4 @@
-Hello Git!
+Hello from practice!
 I'm learning Git. 
 Git is useful for developer. 
 
