@@ -12,4 +12,5 @@ I'm learning git diff.
 
 testing for git diff HEAD
 additional test for git diff HEAD.
+This bug has been fixed.
 
