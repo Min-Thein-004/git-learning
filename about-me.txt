@@ -1,3 +1,7 @@
 My name is Min. 
 I'm learning Git currently. 
 I'm learning web development. 
+
+I'm practicing git branches. 
+I want to be a better developer. 
+
